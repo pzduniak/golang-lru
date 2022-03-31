@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hnlq715/golang-lru/simplelru"
+	"github.com/pzduniak/golang-lru/simplelru"
 )
 
 const (
